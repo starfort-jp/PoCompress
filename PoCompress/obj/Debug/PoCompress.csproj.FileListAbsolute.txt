@@ -1,0 +1,9 @@
+E:\Data\Visual Studio 2015\Projects\PoCompress\PoCompress\bin\Debug\PoCompress.exe.config
+E:\Data\Visual Studio 2015\Projects\PoCompress\PoCompress\bin\Debug\PoCompress.exe
+E:\Data\Visual Studio 2015\Projects\PoCompress\PoCompress\bin\Debug\PoCompress.pdb
+E:\Data\Visual Studio 2015\Projects\PoCompress\PoCompress\obj\Debug\PoCompress.Form1.resources
+E:\Data\Visual Studio 2015\Projects\PoCompress\PoCompress\obj\Debug\PoCompress.Properties.Resources.resources
+E:\Data\Visual Studio 2015\Projects\PoCompress\PoCompress\obj\Debug\PoCompress.csproj.GenerateResource.Cache
+E:\Data\Visual Studio 2015\Projects\PoCompress\PoCompress\obj\Debug\PoCompress.exe
+E:\Data\Visual Studio 2015\Projects\PoCompress\PoCompress\obj\Debug\PoCompress.pdb
+E:\Data\Visual Studio 2015\Projects\PoCompress\PoCompress\obj\Debug\PoCompress.csprojResolveAssemblyReference.cache
